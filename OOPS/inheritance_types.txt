@@ -1,0 +1,20 @@
+// Types of inheritance
+
+1. Single
+A -> B
+
+2. Multiple
+A    B
+ \  /
+  C
+
+3. Multilevel
+A -> B -> C
+
+4. Hierarchical
+    A
+   / \
+  B   C
+
+5. Hybrid
+Combination of the above.
